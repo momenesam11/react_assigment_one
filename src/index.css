@@ -1,0 +1,33 @@
+div.home,div.about{
+    background-color: #1ABC9C !important;
+}
+div.contact{
+    background-color: #ffffff !important;
+}
+
+nav.navbar,footer{
+background-color: #2C3E50 !important;
+}
+
+
+
+div.home img{
+    width: 20%;
+}
+
+
+ div.copy{
+   background-color: #1A252F !important;
+}
+
+.active{
+    background: #1ABC9C !important;
+    color: white !important;
+    padding-inline:15px !important;
+    border-radius: 5px !important;
+}
+
+
+.layer{
+    background-color: #1abc9c50;
+}
